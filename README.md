@@ -12,8 +12,10 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
   void requestEvent(); // <--- Bæta þessari línu við.
   void setup() // <--- Þessi lína er þegar til staðar.
   ```
+  
+   #### [Tinkercad](https://www.tinkercad.com/things/8XvAzjj6vo7-smashing-snaget/editel)
 
-1. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
+2. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
  
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
    2. Hver er munurinn á SDA og SCL?
