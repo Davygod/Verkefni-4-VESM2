@@ -21,9 +21,13 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
 3. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
  
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
+      * __Svar:__ Það á við að tveir eða fleiri skiptast á upplýsingum í rauntíma. Á flestum vinnustöðum gerast samskipti þannig og fólk býst við svörum í rauntíma. Vandinn við þessa nálgun er að hún er í raun ekki mjög árangursrík.
    2. Hver er munurinn á SDA og SCL?
+      * __Svar:__ SCL er klukkumerkið og SDA er gagnamerkið. Klukkumerkið er alltaf búið til af núverandi tengimeistara; sum þræla-tæki geta þvingað klukkuna lítið stundum til að seinka meistaranum að senda fleiri gögn (eða þurfa meiri tíma til að undirbúa gögn áður en meistarinn reynir að loka fyrir þeim).
    3. Í Master kóðanum er línan `Wire.begin();` og í Slave kóðanum er sambærileg lína `Wire.begin(8);`.
       1. Hvað þýðir talan 8 í Slave kóðanum?
+         * __Svar:__
       2. Hvað þýðir að það er engin tala í Master kóðanum?
+         * __Svar:__
       
  4. (Væntanlegt!)
