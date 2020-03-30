@@ -13,7 +13,7 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
   void setup() // <--- Þessi lína er þegar til staðar.
   ```
   
-   * #### [Svar fyrir Tinkercad](https://www.tinkercad.com/things/8XvAzjj6vo7-smashing-snaget/editel)
+   * #### [Svar fyrir Tinkercadverkefnið](https://www.tinkercad.com/things/8XvAzjj6vo7-smashing-snaget/editel)
 
 2. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
  
