@@ -15,7 +15,7 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
   void requestEvent(); // <--- Bæta þessari línu við.
   void setup() // <--- Þessi lína er þegar til staðar.
   ```
-   * #### [Svar fyrir Tinkercadverkefni 1]()
+   * #### [Svar fyrir Tinkercadverkefni 1](https://www.tinkercad.com/things/bQXNtgzwLia-i2c-part-1-using-2-arduinos/editel)
    * #### [Svar fyrir Tinkercadverkefni 2](https://www.tinkercad.com/things/8XvAzjj6vo7-smashing-snaget/editel)
 
 3. Fáðu allt til að virka og svaraðu svo eftirfarandi spurningum:
