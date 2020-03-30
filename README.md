@@ -26,8 +26,8 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
       * __Svar:__ SCL er klukkumerkið og SDA er gagnamerkið. Klukkumerkið er alltaf búið til af núverandi tengimeistara; sum þræla-tæki geta þvingað klukkuna lítið stundum til að seinka meistaranum að senda fleiri gögn (eða þurfa meiri tíma til að undirbúa gögn áður en meistarinn reynir að loka fyrir þeim).
    3. Í Master kóðanum er línan `Wire.begin();` og í Slave kóðanum er sambærileg lína `Wire.begin(8);`.
       1. Hvað þýðir talan 8 í Slave kóðanum?
-         * __Svar:__
+         * __Svar:__ Byrjar I2C samskipti við Slave Address sem 8 á pinna (A4, A5)
       2. Hvað þýðir að það er engin tala í Master kóðanum?
-         * __Svar:__
+         * __Svar:__ Byrjar I2C samskipti við pinna (A4, A5)
       
  4. (Væntanlegt!)
