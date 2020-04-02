@@ -30,7 +30,7 @@ Athuga, það þarf að bæta við tveimur línum í kóðann sem er í greininn
       2. Hvað þýðir að það er engin tala í Master kóðanum?
          * __Svar:__ Byrjar I2C samskipti við pinna (A4, A5)
       
-4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir **fyrri** tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/)
+4. Stafrænt hallamál. Horfðu á [Build a Digital Level with MPU-6050 and Arduino](https://www.youtube.com/watch?v=XCyRXMvVSCw) myndbandið til enda. Fylgdu eftir **fyrri** tilrauninni sem er í myndbandinu og settu upp verklega. Sjá einnig [vefgrein](https://dronebotworkshop.com/mpu-6050-level/). Ef þú ert ekki með MPU-6050 eða hann er ólóðaður gerðu þá [þetta verkefni í staðinn](https://gist.github.com/gestskoli/c807f6f4f310a2255fd59d1bffa8eddc)
 
 5. Valkvæmt (ekki til einkunna). Skoðaðu [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/)
 
